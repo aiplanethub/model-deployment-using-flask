@@ -1,0 +1,1 @@
+<p><strong>Tensorflow Model Pipeline:&nbsp;</strong><a href="https://github.com/srivatsan88/model-deployment/blob/master/Deploying_Tensorflow_Model_Part_1.ipynb" target="_blank">https://github.com/srivatsan88/model-deployment/blob/master/Deploying_Tensorflow_Model_Part_1.ipynb</a></p>
