@@ -1,0 +1,1 @@
+<p><strong>Deployment of Sentiment Analysis Model Using Flask:</strong>&nbsp;<a href="https://github.com/srivatsan88/model-deployment/blob/master/SAFlask.py" target="_blank">https://github.com/srivatsan88/model-deployment/blob/master/SAFlask.py</a></p>
